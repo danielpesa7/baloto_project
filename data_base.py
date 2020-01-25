@@ -11,7 +11,6 @@
 #Import needed libraries
 from sqlalchemy import create_engine
 import pandas as pd
-import time
 
 #Database credentials
 db_string = 'postgres://daniel_sql:here&now777@localhost/baloto'
